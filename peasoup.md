@@ -5,5 +5,6 @@
 - onion 0.3
 - patatoe 0.4
 
-# instructions
+# instruction
 - shell the peas.
+- boil water and mix everything together
